@@ -1,0 +1,2 @@
+this is 3rd file
+i am pushing the file into github.
